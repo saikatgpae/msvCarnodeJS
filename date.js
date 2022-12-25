@@ -1,3 +1,3 @@
-exports.mydate = function(){
-    return Date();
-}
+exports.mydate = function () {
+  return Date();
+};
